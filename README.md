@@ -1,4 +1,4 @@
-# KPI Automation System
+# KPI Tracker
 
 <img src="https://github.com/SapporoAlex/KPI-Tracker/blob/main/preview.jpg">
 
