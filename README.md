@@ -1,5 +1,7 @@
 # KPI Automation System
 
+<img src="https://github.com/SapporoAlex/KPI-Tracker/blob/main/preview.jpg">
+
 ## Description
 This system was designed for Andrew Statter, CEO of Titan Greentech, as a visualisation tool to view the KPIs of his staff. This project is an automated system designed for extracting, processing, and visualizing Key Performance Indicator (KPI) data for employees of GreenTech, utilizing the Tamago platform. The script navigates through web interfaces, scrapes relevant data, processes it, updates and creates visualizations in Excel spreadsheets, and finally sends out an email with the updated spreadsheet attached.
 
